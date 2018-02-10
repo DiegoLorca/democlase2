@@ -1,0 +1,57 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.purple{
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.tomate {
+  background-color: tomato;
+}
+
+.dodgerblue {
+  background-color: dodgerblue;
+}
+
+
+
+.italic {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.tu-hermana {
+  display: block;
+  margin: 0 auto
+}
+
+.circulo {
+  display: block;
+  background-color: dodgerblue;
+  border-radius: 50%;
+  width: 400px;
+}
+
+.cuadrado {
+  display: block;
+  background-color: tomato;
+  border-radius: 0%;
+  width: 400px;
+}
+
+.circuadrado {
+  display: block;
+  background-color: rebeccapurple;
+  border-radius: 30%;
+  width: 400px;
+}
+//* {
+//  border: 1px solid red;
+//}
